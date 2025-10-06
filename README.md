@@ -1,3 +1,4 @@
+![image alt](https://github.com/MkrManishk/Marksheet-Generator/blob/e0d626152736fc21f6dc97583d076a0d28f030a8/Screenshot%20(90).png)
 # Marksheet-Generator
 
 MARKSHEET GENERATOR - Setup and Usage Instructions
